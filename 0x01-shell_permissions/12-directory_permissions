@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -m u+x, g, ox my_dir
